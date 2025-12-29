@@ -3,8 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> This github ONLY </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> M.S. Student at Kyungpook National University, School of AI. 
-    </div> </li>🚀Researching Artificial Intelligence since Mar 2025. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> M.S. Student at Kyungpook National University, School of AI. 🚀
+    </div> </li>Researching Artificial Intelligence since Mar 2025. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
